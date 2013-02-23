@@ -1,0 +1,6 @@
+name = Adam Tweaks
+description = Generic site tweaks that do not deserve their own module go here!
+package = Adam
+core = 7.x
+files[] = adam_tweaks.module
+files[] = adam_tweaks.install
